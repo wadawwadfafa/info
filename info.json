@@ -1,1 +1,98 @@
-
+{
+    " yo " : 
+        " mensaje " : " ! ip 139.47.112.205 "
+    },
+    " Harlen " : {
+        " mensaje " : " ! ip 135.148.14.37 "
+    },
+    " LunaticRP " : {
+        " mensaje " : " ! ip 135.148.39.252 "
+    },
+    " Jank (InsolentesRP) " : {
+        " mensaje " : " ! ip 78.30.11.254 "
+    },
+    " VRAX " : {
+        " mensaje " : " ! ip 45.141.37.161 "
+    },
+    " RicoBambin0 " : {
+        " mensaje " : " ! ip 51.195.126.170 "
+    },
+    " ivanv2 " : {
+        " mensaje " : " ! ip 54.37.245.82 "
+    },
+    " SOMBRA " : {
+        " mensaje " : " ! ip 46.249.32.228 "
+    },
+    " ZErick " : {
+        " mensaje " : " ! ip 54.39.131.60 "
+    },
+    " colfgcanario y gfx.vadu " : {
+        " mensaje " : " ! ip 185.223.31.32 "
+    },
+    " MRC " : {
+        " mensaje " : " ! ip 213.32.6.205 "
+    },
+    " Elpipe " : {
+        " mensaje " : " ! ip 168.195.128.147 "
+    },
+    " AcT_Kent " : {
+        " mensaje " : " ! ip 51.222.10.156 "
+    },
+    " Atómico " : {
+        " mensaje " : " ! ip 46.105.92.6 "
+    },
+    " kylltek " : {
+        " mensaje " : " ! ip 45.156.85.124 "
+    },
+    " Diego " : {
+        " mensaje " : " ! ip 94.73.51.249 "
+    },
+    " ParteMozas " : {
+        " mensaje " : " ! ip 185.249.197.220 "
+    },
+    " RestXII " : {
+        " mensaje " : " ! ip 213.32.6.195 "
+    },
+    " Nasai " : {
+        " mensaje " : " ! ip 207.244.237.254 "
+    },
+    " BUSCAR (traidoresrp) " : {
+        " mensaje " : " ! ip 201.143.237.239 "
+    },
+    " Pa1less " : {
+        " mensaje " : " ! ip 161.97.160.52 "
+    },
+    " Pablo " : {
+        " mensaje " : " ! ip 178.32.107.251 "
+    },
+    " DIEGOB " : {
+        " mensaje " : " ! ip 185.249.196.166 "
+    },
+    " Apofis " : {
+        " mensaje " : " ! ip 77.27.132.187 "
+    },
+    " GServers " : {
+        " mensaje " : " ! ip 167.86.86.73 "
+    },
+    " Pauoconmaizz " : {
+        " mensaje " : " ! ip 144.76.3.45 "
+    },
+    "ariuky": {
+        "message": "!ip 2001:41d0:1004:15a3::"
+    },
+    "! xavielpro1": {
+        "message": "!ip 185.223.29.194"
+    },
+    "C4RLO": {
+        "message": "!ip 151.80.110.110"
+    },
+    "!SegiDist": {
+        "message": "!ip 145.239.131.238"
+    },
+    "Mateo": {
+        "message": "!ip 51.222.85.20"
+    },
+"Raul": {
+        "message": "!ip 83.32.202.23"
+    },
+}
